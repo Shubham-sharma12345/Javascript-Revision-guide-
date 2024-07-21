@@ -1,4 +1,4 @@
-Table of contents
+Table of contents ( Go to javascript Revision Guide it is hindi + english lang )
 
 Q1- what are the Diff ways to write the Objects in js
 

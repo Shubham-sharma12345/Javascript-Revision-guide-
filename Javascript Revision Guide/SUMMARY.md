@@ -6,3 +6,4 @@
 * [Q4 -What is JSON](q4-what-is-json.md)
 * [ Q 5-what is slice method()](q-5-what-is-slice-method.md)
 * [Q 6-What is Splice() method](q-6-what-is-splice-method.md)
+* [Q7- What is the difference between slice and splice](q7-what-is-the-difference-between-slice-and-splice.md)

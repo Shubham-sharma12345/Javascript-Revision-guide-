@@ -10,4 +10,5 @@
 * [Q8-What is the difference between == and === operators](q8-what-is-the-difference-between-and-operators.md)
 * [Q 9-What are lambda expressions or arrow functions](q-9-what-are-lambda-expressions-or-arrow-functions.md)
 * [Q 10 -What is a first class function](q-10-what-is-a-first-class-function.md)
-* [Page](page.md)
+* [Q 11-What is a first order function](q-11-what-is-a-first-order-function.md)
+* [What is Higher order function](what-is-higher-order-function.md)

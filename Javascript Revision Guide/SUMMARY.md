@@ -5,4 +5,4 @@
 * [Q3-What is the difference between Call, Apply and Bind](q3-what-is-the-difference-between-call-apply-and-bind.md)
 * [Q4 -What is JSON](q4-what-is-json.md)
 * [ Q 5-what is slice method()](q-5-what-is-slice-method.md)
-* [What is Splice() method](what-is-splice-method.md)
+* [Q 6-What is Splice() method](q-6-what-is-splice-method.md)

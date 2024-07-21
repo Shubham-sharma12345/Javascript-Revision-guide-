@@ -7,3 +7,7 @@
 * [ Q 5-what is slice method()](q-5-what-is-slice-method.md)
 * [Q 6-What is Splice() method](q-6-what-is-splice-method.md)
 * [Q7- What is the difference between slice and splice](q7-what-is-the-difference-between-slice-and-splice.md)
+* [Q8-What is the difference between == and === operators](q8-what-is-the-difference-between-and-operators.md)
+* [Q 9-What are lambda expressions or arrow functions](q-9-what-are-lambda-expressions-or-arrow-functions.md)
+* [Q 10 -What is a first class function](q-10-what-is-a-first-class-function.md)
+* [Page](page.md)

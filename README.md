@@ -1,4 +1,5 @@
 Table of contents
+
 Q1- what are the Diff ways to write the Objects in js
 
 Q2- what are prototype Chain in Js

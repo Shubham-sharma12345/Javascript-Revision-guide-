@@ -12,3 +12,5 @@
 * [Q 10 -What is a first class function](q-10-what-is-a-first-class-function.md)
 * [Q 11-What is a first order function](q-11-what-is-a-first-order-function.md)
 * [Q 12-What is Higher order function](q-12-what-is-higher-order-function.md)
+* [Q 13-What is a unary function](q-13-what-is-a-unary-function.md)
+* [Q14-What is the currying function](q14-what-is-the-currying-function.md)

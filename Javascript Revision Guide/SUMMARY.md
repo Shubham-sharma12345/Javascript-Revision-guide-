@@ -11,4 +11,4 @@
 * [Q 9-What are lambda expressions or arrow functions](q-9-what-are-lambda-expressions-or-arrow-functions.md)
 * [Q 10 -What is a first class function](q-10-what-is-a-first-class-function.md)
 * [Q 11-What is a first order function](q-11-what-is-a-first-order-function.md)
-* [What is Higher order function](what-is-higher-order-function.md)
+* [Q 12-What is Higher order function](q-12-what-is-higher-order-function.md)

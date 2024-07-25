@@ -19,4 +19,5 @@
 * [Q17-How do you redeclare variables in a switch block without an error](q17-how-do-you-redeclare-variables-in-a-switch-block-without-an-error.md)
 * [Q 18-What is the Temporal Dead Zone](q-18-what-is-the-temporal-dead-zone.md)
 * [Q19-what is Immediately Invoked Function Expression,](q19-what-is-immediately-invoked-function-expression.md)
+* [Q20- what is memoization in js](q20-what-is-memoization-in-js.md)
 * [Page](page.md)

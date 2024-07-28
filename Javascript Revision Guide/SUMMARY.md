@@ -23,7 +23,7 @@
 * [Q21-What is hoisting ?](q21-what-is-hoisting.md)
 * [Q22-What are classes in ES6](q22-what-are-classes-in-es6.md)
 * [what are clousers](what-are-clousers.md)
-* [Page 2](page-2.md)
+* [what are Promises](what-are-promises.md)
 * [Page 3](page-3.md)
 * [Page 1](page-1.md)
 * [Page](page.md)

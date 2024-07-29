@@ -19,3 +19,9 @@ Q8-What is the difference between == and === operators
 Q 9-What are lambda expressions or arrow functions
 
 Q 10 -What is a first class function
+
+Q-11-what-is-a-first-order
+
+Q 12-what-is-higher-order
+
+Q-13-what-is-a-unary-function.md

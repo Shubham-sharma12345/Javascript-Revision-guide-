@@ -5,19 +5,20 @@ Firstly call() method - Call method invoke the function with **this** value and 
 ```javascript
 let student1={
       name:"rahul",
-      age:23,
-    
-      userdetail:function(){
-              console.log(this.age);
-      }
+      age:23
     }
-    student1.userdetail();
+    let fulldetails=function(){
+     console.log(this.name+ "" +this.age);
+    }
+      fulldetails.call(student1)
 
     let student2={
       name:"anuj",
       age:26,
 
     }
+    
+    fulldetails.call(student2)
 ```
 
 Apply() - Apply is also somewhat same like call but the only diff is it pass an argument as an array list

@@ -7,7 +7,7 @@ JavaScript mein functions ko alag-alag tarikon se categorize kiya ja sakta hai. 
    *   **Example**:
 
        ```javascript
-       javascript function greet() {
+        function greet() {
            console.log("Hello!");
        }
        ```
@@ -17,7 +17,7 @@ JavaScript mein functions ko alag-alag tarikon se categorize kiya ja sakta hai. 
    *   **Example**:
 
        ```javascript
-       javascript const greet = function() {
+        const greet = function() {
            console.log("Hello!");
        };
        ```
@@ -27,7 +27,7 @@ JavaScript mein functions ko alag-alag tarikon se categorize kiya ja sakta hai. 
    *   **Example**:
 
        ```javascript
-       javascript const greet = () => {
+        const greet = () => {
            console.log("Hello!");
        };
        ```
@@ -37,7 +37,7 @@ JavaScript mein functions ko alag-alag tarikon se categorize kiya ja sakta hai. 
    *   **Example**:
 
        ```javascript
-       javascript setTimeout(function() {
+        setTimeout(function() {
            console.log("Hello!");
        }, 1000);
        ```

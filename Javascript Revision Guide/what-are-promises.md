@@ -1,4 +1,4 @@
-# what are Promises
+# Q24-what are Promises
 
 Promise asynchronous operations ke results ko handle karne ke liye use hota hai, jaise API calls, file reading, ya kisi bhi task jo time le sakta hai.
 

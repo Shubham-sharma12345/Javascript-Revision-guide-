@@ -148,7 +148,7 @@ person1.greet(); // Output: Hello, my name is Alice and I am 30 years old.
     * Classes in ES6 can have getter and setter methods that allow you to define how properties are accessed and modified.
 
     ```javascript
-    javascriptCopy codeclass Rectangle {
+    class Rectangle {
       constructor(width, height) {
         this.width = width;
         this.height = height;

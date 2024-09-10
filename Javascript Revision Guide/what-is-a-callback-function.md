@@ -8,17 +8,34 @@ description: >-
 
 ```javascript
 // Some code
-function greet(name, callback) {
-  console.log('Hello ' + name);
-  callback();
+function addwaterinPan(){
+    console.log("Add Water in pan")
+}
+function Waterboils(callback){
+    console.log("water boils")
+    setTimeout(()=>{
+        console.log("Water boiled")
+        callback();
+    },3000)
+}
+function addSugar(){
+    console.log("Add Sugar")
+    addGiner()
+}
+function addGiner(){
+    console.log("Add Ginger")
+    console.log("wait of 2 sec")
+    setTimeout(()=>{
+       PourItserve()
+    },2000)
+}
+function PourItserve(){
+    console.log("Serve to coustomer")
 }
 
-function sayGoodbye() {
-  console.log('Goodbye!');
-}
+addwaterinPan()
+Waterboils(addSugar)
 
-// Passing 'sayGoodbye' as a callback to the 'greet' function
-greet('Alice', sayGoodbye);
 
 
 ```

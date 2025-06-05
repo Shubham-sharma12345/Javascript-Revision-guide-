@@ -39,7 +39,7 @@
 * [Q35-Diff B/W Local and Session Storage](q35-diff-b-w-local-and-session-storage.md)
 * [Q36-Diff B/W synchronous and Asynchronous](q36-diff-b-w-synchronous-and-asynchronous.md)
 * [Page 2](page-2/README.md)
-  * [Q36-](q36.md)
+  * [Q36-Async/Await](page-2/q36-async-await.md)
 * [Page 3](page-3.md)
 * [Page 1](page-1.md)
 * [Page](page.md)
